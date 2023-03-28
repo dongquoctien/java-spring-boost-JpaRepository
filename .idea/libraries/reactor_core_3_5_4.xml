@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reactor-core-3.5.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../JAVA/JAVA-Extentions/reactor-core-3.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
